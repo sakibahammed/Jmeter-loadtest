@@ -1,0 +1,20 @@
+2025-06-09 07:00:32,008 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-06-09 07:00:32,021 INFO o.a.j.JMeter: Loading user properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/user.properties
+2025-06-09 07:00:32,022 INFO o.a.j.JMeter: Loading system properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/system.properties
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: Version 5.6.3
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: java.version=21.0.7
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: os.name=Mac OS X
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: os.arch=aarch64
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: os.version=14.0
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: java.awt.headless=null
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-06-09 07:00:32,025 INFO o.a.j.JMeter: Available Processors =8
+2025-06-09 07:00:32,031 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-06-09 07:00:32,032 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-06-09 07:00:32,032 INFO o.a.j.JMeter: JMeterHome=/opt/homebrew/Cellar/jmeter/5.6.3/libexec
+2025-06-09 07:00:32,032 INFO o.a.j.JMeter: user.dir  =/Users/omarahammed/Desktop/load_test
+2025-06-09 07:00:32,032 INFO o.a.j.JMeter: PWD       =/Users/omarahammed/Desktop/load_test
+2025-06-09 07:00:32,033 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: Omars-MacBook-Air.local FullName: localhost
